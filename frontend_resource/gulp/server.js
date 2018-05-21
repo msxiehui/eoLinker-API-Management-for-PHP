@@ -70,7 +70,7 @@ function browserSyncInit(baseDir, open, port) {
             //使用代理
             
             middleware: [
-                proxyMiddleware(['/eolinker_os'], {onProxyRes: onProxyRes, target: 'http://localhost:8089', changeOrigin: true,secure: false})
+                proxyMiddleware(['/server'], {onProxyRes: onProxyRes, target: 'http://my.itapi.iforce-media.com', changeOrigin: true,secure: false})
             ]
         }
     });

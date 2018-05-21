@@ -53,18 +53,19 @@
                         childSref: 'home.news.default',
                         isShow: -1,
                         status: 1
-                    }, {
-                        name: $filter('translate')('2101'),
-                        href: 'https://www.eolinker.com/#/',
-                        icon: 'icon-ONLINEkaifa',
-                        isShow: -1,
-                        divide: 1
-                    }, {
-                        name: $filter('translate')('2105'),
-                        href: 'https://jq.qq.com/?_wv=1027&k=5QQoExE',
-                        icon: 'icon-qq',
-                        isShow: -1,
-                    }
+                     }
+                    // , {
+                    //     name: $filter('translate')('2101'),
+                    //     href: 'https://www.eolinker.com/#/',
+                    //     icon: 'icon-ONLINEkaifa',
+                    //     isShow: -1,
+                    //     divide: 1
+                    // }, {
+                    //     name: $filter('translate')('2105'),
+                    //     href: 'https://jq.qq.com/?_wv=1027&k=5QQoExE',
+                    //     icon: 'icon-qq',
+                    //     isShow: -1,
+                    // }
                 ]
             },
             fun: {

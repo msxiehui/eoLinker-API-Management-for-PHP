@@ -1,6 +1,6 @@
 {
   "development": {
-    "serverUrl": "/eolinker_os/server/index.php",
+    "serverUrl": "/server/index.php",
     "isDebug":true,
     "assetUrl":"app/",
     "COOKIE_CONFIG":{

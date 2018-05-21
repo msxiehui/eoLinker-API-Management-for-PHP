@@ -38,9 +38,9 @@
 
 @import "component/content/guide/index.scss";
 
-@import "component/content/home/index.scss";
-
 @import "component/content/index/index.scss";
+
+@import "component/content/home/index.scss";
 
 @import "component/navbar/nav0/index.scss";
 
@@ -50,9 +50,9 @@
 
 @import "directive/ams/aceEditor/index.scss";
 
-@import "modal/branch/apiManagement/index.scss";
-
 @import "modal/branch/common/index.scss";
+
+@import "modal/branch/apiManagement/index.scss";
 
 @import "component/content/guide/error/index.scss";
 
@@ -106,15 +106,17 @@
 
 @import "component/content/home/content/project/content/inside/content/team/index.scss";
 
-@import "component/content/home/content/project/content/inside/sidebar/api/index.scss";
-
 @import "component/content/home/content/project/content/inside/sidebar/code/index.scss";
+
+@import "component/content/home/content/project/content/inside/sidebar/api/index.scss";
 
 @import "component/content/home/content/database/content/inside/content/table/default/index.scss";
 
-@import "component/content/home/content/project/content/inside/content/api/detail/index.scss";
+@import "component/content/home/content/project/content/inside/content/code/list/index.scss";
 
 @import "component/content/home/content/project/content/inside/content/api/history/index.scss";
+
+@import "component/content/home/content/project/content/inside/content/api/detail/index.scss";
 
 @import "component/content/home/content/project/content/inside/content/api/edit/index.scss";
 
@@ -122,19 +124,17 @@
 
 @import "component/content/home/content/project/content/inside/content/api/mock/index.scss";
 
-@import "component/content/home/content/project/content/inside/content/api/test/index.scss";
-
-@import "component/content/home/content/project/content/inside/content/code/list/index.scss";
-
 @import "component/content/home/content/project/content/inside/content/doc/detail/index.scss";
+
+@import "component/content/home/content/project/content/inside/content/api/test/index.scss";
 
 @import "component/content/home/content/project/content/inside/content/doc/edit/index.scss";
 
 @import "component/content/home/content/project/content/inside/content/doc/list/index.scss";
 
-@import "component/content/home/content/project/content/inside/content/test/api/index.scss";
-
 @import "component/content/home/content/project/content/inside/content/test/default/index.scss";
+
+@import "component/content/home/content/project/content/inside/content/test/api/index.scss";
 
 @import "component/content/home/content/project/content/inside/content/test/editSingal/index.scss";
 
